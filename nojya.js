@@ -1,6 +1,6 @@
 /*
 【このスクリプトについて】
-このスクリプトはFediverse (3) Advent Calendar 2020の為に書いた『マストドンをのじゃでいっぱいにしてみた』のスクリプトなのじゃ。
+このスクリプトはFediverse (3) Advent Calendar 2020の為に書いた『マストドンをのじゃでいっぱいにしてみたのじゃ～』のスクリプトなのじゃ。
 わらわに悪い影響がなく常識的な範囲という条件を守れるのなら、勝手に改造するのも、勝手に配布するのも、githubであれこれするのも自由なのじゃ～。
 必要であれば連絡をくれたら画像素材の提供もするのじゃ。
 */
@@ -261,7 +261,7 @@ for(var i = 0; i < bg3.length; ++i){
 }
 var zousan = document.getElementsByClassName("getting-started__footer");
 for(var i = 0; i < zousan.length; ++i){
-    zousan[i].innerHTML = "<p>このページはJavascriptによって書き換えられているのじゃ。<br>「マストドンをのじゃでいっぱいにしてみた」のネタスクリプトなのじゃ。<br>作成者：https://fedibird.com/@Satis</p>"
+    zousan[i].innerHTML = "<p>このページはJavascriptによって書き換えられているのじゃ。<br>「マストドンをのじゃでいっぱいにしてみたのじゃ～」のネタスクリプトなのじゃ。<br>作成者：https://fedibird.com/@Satis</p>"
 }
 var zousan = document.getElementsByClassName("columns-area__panels__pane");
 for(var i = 0; i < zousan.length; ++i){
